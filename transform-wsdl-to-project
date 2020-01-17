@@ -1,0 +1,4 @@
+Criando projeto a partir de um endpoint wsdl
+
+COMANDO:
+wsimport -s src -p <diretorio-projeto-criado> <http://endpoint-wsdl-publicado>
